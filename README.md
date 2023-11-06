@@ -18,11 +18,11 @@ Learning IT, connectivity, well-being, philosophy, and much more.
 6. Ports
 
 7. IP Addresses
- 
- <picture>
- <source media=“(prefers-color-scheme: dark)” srcset=“/IMG_0558.png”>
- <source media=“(prefers-color-scheme: light)” srcset=“/IMG_0563.png”>
- <img alt=“A” src=“/IMG_0562.png”>
+
+<picture>
+<source media=“(prefers-color-scheme: dark)” srcset=“/IMG_0558.png”>
+<source media=“(prefers-color-scheme: light)” srcset=“/IMG_0563.png”>
+<img alt=“A” src=“/IMG_0562.png”>
 </picture>
 
 <!--
