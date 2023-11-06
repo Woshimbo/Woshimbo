@@ -20,9 +20,9 @@ Learning IT, connectivity, well-being, philosophy, and much more.
 7. IP Addresses
 
 <picture>
-<source media=‘(prefers-color-scheme: dark)’ srcset=‘/IMG_0421.jpeg’>
-<source media=‘(prefers-color-scheme: light)’ srcset=‘/IMG_0420.jpeg’>
-<img alt=“A” src=‘/IMG_0421.jpeg’>
+<source media=‘(prefers-color-scheme: dark)’ srcset=‘IMG_0421.jpeg’>
+<source media=‘(prefers-color-scheme: light)’ srcset=‘IMG_0420.jpeg’>
+<img alt=“A” src=‘IMG_0421.jpeg’>
 </picture>
 
 <!--
