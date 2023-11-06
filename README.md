@@ -22,7 +22,7 @@ Learning IT, connectivity, well-being, philosophy, and much more.
  <picture>
  <source media=“(prefers-color-scheme: dark)” srcset=“/IMG_0558.png”>
  <source media=“(prefers-color-scheme: light)” srcset=“/IMG_0563.png”>
- <img alt=“YOUR-ALT-TEXT” src=“YOUR-DEFAULT-IMAGE”>
+ <img alt=“A” src=“/IMG_0562.png”>
 </picture>
 
 <!--
